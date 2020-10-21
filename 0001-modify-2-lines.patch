@@ -1,0 +1,24 @@
+From cef8f8a580b185b22ad9439d45ec79636b396e03 Mon Sep 17 00:00:00 2001
+From: Jan <jabajaryn@gmail.com>
+Date: Wed, 21 Oct 2020 15:45:22 +0300
+Subject: [PATCH] modify 2 lines
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index d15112c..f79ef60 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-a
+-a
++b
++b
+ a
+ a
+ a
+-- 
+2.26.0.windows.1
+
